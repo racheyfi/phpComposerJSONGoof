@@ -1,0 +1,8 @@
+{
+   "license" : "Apache-2.0",
+   "require" : {
+      "zendframework/zendframework" : "2.4.7"
+   },
+   "name" : "example/php-composer",
+   "description" : "Example PHP repository containing fake vulnerable dependencies"
+}
